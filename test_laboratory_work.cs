@@ -24,7 +24,7 @@ namespace T2_1_KT26_ТрохименкоВ.О_
             /* попередні два рядки коду можна (якщо потрібно) об'єднати в один:
                int number = Convert.ToInt32(Console.ReadLine()); */
             Console.WriteLine("Введено число {0}", number);
-            Console.WriteLine();
+            Console.WriteLine("hell");
 
 
             // Введення дійсного числа з клавіатури, результат знаходиться у змінній fnumber
